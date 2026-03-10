@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Victor 👋
 
-<!--
-**Vector005awolesi/Vector005awolesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack MERN developer building intelligent web solutions** 🚀  
+*Bridging the gap between clean code and AI-driven user experiences.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Build
+
+* **Scalable Web Architectures** using the MERN stack (MongoDB, Express, React, Node.js)
+* **AI-Integrated Applications** that automate and enhance learning workflows
+* **Responsive Frontend Interfaces** with Tailwind CSS and modern React hooks
+* **RESTful APIs & Microservices** for robust, production-ready backends
+
+### What I'm Working On Now
+
+* **StudyAI** — An intelligent tool designed to revolutionize how students summarize, quiz, and master their course material. 🤖📚
+* **Advanced GraphQL Integration** — Moving beyond standard REST for more efficient data fetching.
+* **Open Source Contributions** — Improving developer tools in the JavaScript ecosystem.
+
+### My Tech Stack
+
+` MongoDB ` ` Express.js ` ` React ` ` Node.js ` ` TypeScript ` ` Next.js ` ` Tailwind CSS ` ` Redux ` ` OpenAI API ` ` Docker ` ` AWS `
+
+---
+
+### Connect with Me
+[LinkedIn](your-link) | [Twitter](your-link) | [Portfolio](your-link)
+
