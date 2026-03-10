@@ -25,5 +25,5 @@
 ---
 
 ### Connect with Me
-[LinkedIn](your-link) | [Twitter](your-link) | [Portfolio](your-link)
+[LinkedIn](your-link) | [Twitter](your-link) | [Portfolio](https://victorawolesi.netlify.app)
 
