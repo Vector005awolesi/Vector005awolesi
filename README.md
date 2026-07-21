@@ -10,17 +10,17 @@
 * **Scalable Web Architectures** using the MERN stack (MongoDB, Express, React, Node.js)
 * **AI-Integrated Applications** that automate and enhance learning workflows
 * **Responsive Frontend Interfaces** with Tailwind CSS and modern React hooks
-* **RESTful APIs & Microservices** for robust, production-ready backends
+
 
 ### What I'm Working On Now
 
-* **StudyAI** — An intelligent tool designed to revolutionize how students summarize, quiz, and master their course material. 🤖📚
+* **Quix Ai Buddy ** — An intelligent tool designed to revolutionize how students summarize, quiz, and master their course material. 
 * **Advanced GraphQL Integration** — Moving beyond standard REST for more efficient data fetching.
 * **Open Source Contributions** — Improving developer tools in the JavaScript ecosystem.
 
 ### My Tech Stack
 
-` MongoDB ` ` Express.js ` ` React ` ` Node.js ` ` TypeScript ` ` Next.js ` ` Tailwind CSS ` ` Redux ` ` OpenAI API ` ` Docker ` ` AWS `
+` MongoDB ` ` Express.js ` ` React ` ` Node.js ` ` TypeScript ` ` Next.js ` ` Tailwind CSS ` `Next Js` 
 
 ---
 
